@@ -5,3 +5,4 @@ models
 twitter_secrets.py
 .ipynb_checkpoints
 __pycache__
+*.log
